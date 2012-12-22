@@ -27,6 +27,38 @@ Skype4Py:
 WxPython
 : http://www.wxpython.org/
 
+Usage
+=====
+
+Launch CleverSkype and click the Start Clever Skype button. If this is the first time your running the program, 
+Skype will ask you whether or not you want to allow external programs to access. Select "allow."
+
+<p align="center">
+	<img src="https://github.com/Audionautics/Clever-Skype/raw/master/doc_images/allow_connections.PNG?raw=true")/>
+</p>
+
+Note:
+##
+I couldn't find any methods in the Skype API to test whether or not it has access, so the program just assumes that you're going to allow it, and this charges forward. The downside of this however, is that the CleverSkype will lockup and need to be force-quit if you don't allow it access as it's just sitting there waiting for access. Without a way to test, that's just kind of a clunky-ness that had to be there. 
+
+----------------------------------------
+
+Once connected, anytime a friend chats with you, CleverSkype with start a new conversation with cleverbot.com. Each conversation runs in its own thread, and it will carry on unique conversations with each of your contacts. 
+
+<p align="center">
+	<img src="https://github.com/Audionautics/Clever-Skype/raw/master/doc_images/skype_w_cs.PNG?raw=true")/>
+</p>
+
+---------------------------------------------
+
+Once you're friends have ceased to be your friends, you can stop CleverSkype by clicking the "stop" button, or simply exiting the program from the file menu. 
+
+That's it! 
+
+
+
+
+
 
 
 
