@@ -1,0 +1,1 @@
+Turing test (or troll) your friends! CleverSkype connects the output of Skype's chat to cleverbot.com
