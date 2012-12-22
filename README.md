@@ -1,3 +1,6 @@
+![ScreenShot](https://github.com/Audionautics/Clever-Skype/raw/master/doc_images/Clever_skype.PNG)
+
+
 ABOUT
 =====
 ----------------------------
