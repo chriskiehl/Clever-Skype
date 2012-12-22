@@ -3,6 +3,24 @@ import Skype4Py, cleverbot
 import sys, os, webbrowser, threading
 from botBuilder import *
 
+"""
+NOTE: 
+
+You'll need to download and install the following before this will run.
+
+cleverbot:
+: http://code.google.com/p/pycleverbot/ 
+
+Skype4Py:
+: http://sourceforge.net/projects/skype4py/
+
+WxPython
+: http://www.wxpython.org/ 
+
+Alternatively, you could just run the .exe if you're on windows. 
+
+"""
+
 class SuperFrame(wx.Frame):
 	def __init__(self):
 		wx.Frame.__init__(self, None, size=(320,390))
