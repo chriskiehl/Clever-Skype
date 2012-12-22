@@ -22,7 +22,7 @@ cleverbot:
 : http://code.google.com/p/pycleverbot/ 
 
 Skype4Py:
-: http://sourceforge.net/projects/skype4py/
+: https://github.com/awahlig/skype4py
 
 WxPython
 : http://www.wxpython.org/
