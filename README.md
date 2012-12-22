@@ -1,5 +1,6 @@
-![ScreenShot](https://github.com/Audionautics/Clever-Skype/raw/master/doc_images/Clever_skype.PNG)
-
+<p align="center">
+	<img src="https://github.com/Audionautics/Clever-Skype/raw/master/doc_images/Clever_skype.PNG?raw=true")/>
+</p>
 
 ABOUT
 =====
