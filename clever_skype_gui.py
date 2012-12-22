@@ -107,10 +107,10 @@ class SuperFrame(wx.Frame):
   		wx.EndBusyCursor() 
 
 	def launchBrowser(self):
-		webbrowser.open('http://www.google.com', new=2) 
+		webbrowser.open('https://github.com/Audionautics/Clever-Skype', new=2) 
 	
 	def onAbout(self, e):
-		description = "I'll add stuff here later."
+		description = "Just a silly little toy."
 		
 		info = wx.AboutDialogInfo()
 
@@ -119,7 +119,7 @@ class SuperFrame(wx.Frame):
 		info.SetVersion('1.0')
 		info.SetDescription(description)
 		# Need to update to github address
-		info.SetWebSite('http://www.gitnub.com')
+		info.SetWebSite('https://github.com/Audionautics/')
 		wx.AboutBox(info)
 
 	def stillRunning(self):
