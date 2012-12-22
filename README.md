@@ -22,7 +22,7 @@ cleverbot:
 : http://code.google.com/p/pycleverbot/ 
 
 Skype4Py:
-: http://sourceforge.net/projects/skype4py/
+: https://github.com/awahlig/skype4py
 
 WxPython
 : http://www.wxpython.org/
@@ -34,7 +34,7 @@ Launch CleverSkype and click the Start Clever Skype button. If this is the first
 Skype will ask you whether or not you want to allow external programs to access. Select "allow."
 
 <p align="center">
-	<img src="https://github.com/Audionautics/Clever-Skype/raw/master/doc_images/allow_connection.PNG?raw=true")/>
+	<img src="https://github.com/Audionautics/Clever-Skype/raw/master/doc_images/allow_connection.png?raw=true")/>
 </p>
 
 Note:
