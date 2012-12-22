@@ -1,0 +1,5 @@
+*.pyc
+*videos
+*assets
+*clever_skype.py
+*cleverbot.py
