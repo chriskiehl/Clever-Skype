@@ -5,7 +5,7 @@
 Update: 11/02/13
 ----------------  
 
-Microsoft has decided to shutdown the Skype API starting in December. Clever Skype is now dead. 
+Microsoft has decided to shutdown the Skype API starting in December. Alas! Clever Skype be no more. 
 
 https://support.skype.com/en/faq/FA214/what-is-the-desktop-api
 
