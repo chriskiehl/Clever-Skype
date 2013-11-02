@@ -2,6 +2,11 @@
 	<img src="https://github.com/Audionautics/Clever-Skype/raw/master/doc_images/Clever_skype.PNG?raw=true")/>
 </p>
 
+Update: 11/02/13
+----------------  
+
+Microsoft has decided to shutdown the Skype API starting in December. Clever Skype is now dead. 
+
 ABOUT
 =====
 ----------------------------
